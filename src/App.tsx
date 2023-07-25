@@ -38,7 +38,7 @@ function App() {
       </section>
       <section className="snap-start flex justify-start items-center snap-always h-screen w-screen flex-col pt-12">
         <img className="w-full" src={ImageHbd} alt="hbd" />
-        <span className="font-bold mt-4 text-xl">HAPPY 22th BIRTHDAY!</span>
+        <span className="font-bold mt-4 text-xl">HAPPY 21th BIRTHDAY!</span>
         <div className="flex flex-col">
           <span className="font-bold mt-4 text-4xl">Kania Dewi</span>
           <span className="text-end">my babe &#9829;</span>
